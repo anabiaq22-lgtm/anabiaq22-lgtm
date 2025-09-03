@@ -1,10 +1,10 @@
 ### Olá, meu nome é Ana Beatriz :)👋
-* Future Dev Full-Stack 
+* Future Full-Stack Dev
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anabeatrizqm)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/q.aninha?igsh=cXN2bjB5bTR5OTgx) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](email.anabiaq22@gmail.com.br)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox/email.anabiaq22@gmail.com.br)
 
 ## GitHub:
 
